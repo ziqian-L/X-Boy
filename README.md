@@ -6,3 +6,4 @@
 | 系统 | -- | [构建指南](/X-Boy/README.md) | [暂未完善](/X-Boy-plus/README.md) |
 | 硬件链接 | [https://oshwhub.com/xywang/x-boy-mini](https://oshwhub.com/xywang/x-boy-mini) | [https://oshwhub.com/xywang/x-boy](https://oshwhub.com/xywang/x-boy) | [https://oshwhub.com/xywang/x-boy-plus](https://oshwhub.com/xywang/x-boy-plus) |
 | 视频介绍 | -- | [https://www.bilibili.com/video/BV1JP4y1X7Uz](https://www.bilibili.com/video/BV1JP4y1X7Uz) | [https://www.bilibili.com/video/BV1Gu411V7ar](https://www.bilibili.com/video/BV1Gu411V7ar) |
+| 日期 | 2023.08.12| 2022.09.04 | 2023.07.15 |
