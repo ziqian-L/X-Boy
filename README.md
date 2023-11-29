@@ -1,6 +1,6 @@
 ## DIY game handheld console based on Allwinner V3s、T113-S3
 
-| | X-Boy | X-Boy plus | X-Boy-mini |
+| | X-Boy | X-Boy plus | X-Boy mini |
 | ------ | ------| ------ | ------ |
 | 图片 | ![](/X-Boy/images/7.jpg) | ![](/X-Boy-plus/images/1.jpg) | ![](/X-Boy-mini/images/1.png) |
 | 处理器 | Allwinner V3s | Allwinner T113-S3 | Allwinner V3s |
