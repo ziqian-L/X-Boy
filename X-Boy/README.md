@@ -6,17 +6,6 @@
 
 ![](images/6.jpg)
 
-以下内容为镜像的构建过程，你也可以直接使用我制作好的镜像
-
-- 百度网盘
-
-> 链接：https://pan.baidu.com/s/1ftacGCXHLy-AFabczBg3yg
->
-> 提取码：9bp8
-
-- Google Drive
-
-> 链接：https://drive.google.com/drive/folders/1-7eVUJSSxdMZYrnE8B0fg4Hrzfgba7iD?usp=drive_link
 
 **X-Boy 系统镜像构建全流程指南**
 
