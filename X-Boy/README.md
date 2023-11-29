@@ -217,6 +217,12 @@ uboot 的目录结构
 
 ### 编译 uboot
 
+修改，configs/LicheePi_Zero_defconfig 添加 (2023.11.29 已修改背光电路，此处配置背光 PWM，暂未验证)
+
+```
+CONFIG_VIDEO_LCD_BL_PWM="PB4"
+```
+
 ```
 cd u-boot
 make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- LicheePi_Zero_defconfig
