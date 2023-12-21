@@ -160,7 +160,7 @@ sudo apt-get install lsb-core lib32stdc++6
 arm-linux-gnueabihf-gcc -v
 ```
 
-![](/images/1.jpg)
+![](images/1.jpg)
 
 ## uboot 编译
 
@@ -213,7 +213,7 @@ uboot 的目录结构
 #define CONFIG_BOOTARGS "console=tty0 console=ttyS0,115200 panic=5 rootwait root=/dev/mmcblk0p2 earlyprintk rw  vt.global_cursor_default=0"
 ```
 
-![](/images/2.jpg)
+![](images/2.jpg)
 
 ### 编译 uboot
 
@@ -247,7 +247,7 @@ export KCONFIG_CONFIG
 
 编译成功
 
-![](/images/3.jpg)
+![](images/3.jpg)
 
 后面编译好 kernel 和 rootfs 然后一起烧录
 
@@ -646,7 +646,7 @@ sudo gparted
 
 分区如下
 
-![](/images/4.jpg)
+![](images/4.jpg)
 
 ### 烧录 uboot
 
@@ -778,7 +778,7 @@ mkdir roms
 | 1 | 0 | 1M | u-boot-sunxi-with-spl.bin | 无 |
 | 2 | 1 x 1024 x 1024 | 32M | zImage + sun8i-v3s-licheepi-zero-dock.dtb | ext4 |
 | 3 | 33 x 1024 x 1024 | 128M | rootfs | ext4 |
-| 4 | 161 x 1024 x 1024 | 剩余空间 | roms | fat |
+| 4 | 161 x 1024 x 102/images/4.jpg4 | 剩余空间 | roms | fat |
 
 ```
 dd if=/dev/zero of=X-Boy_20221019.img bs=512k count=512  && sync
@@ -809,7 +809,7 @@ q
 sudo losetup -f --show X-Boy_20221019.img
 ```
 
-![](/images/5.jpg)
+![](images/5.jpg)
 
 这里的 loop25 记录下来 ，以实际显示为准
 
